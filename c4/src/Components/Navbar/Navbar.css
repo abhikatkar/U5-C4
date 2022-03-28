@@ -1,0 +1,17 @@
+
+
+.navbar{
+    width: 100%;
+    height: 40px;
+    background-color: blanchedalmond;
+}
+
+button{
+    cursor: pointer;
+    color: white;
+    background-color: rgb(40, 44, 43);
+    border: none;
+    padding: 5px;
+    border-radius: 10px;
+    height: 30px;
+}

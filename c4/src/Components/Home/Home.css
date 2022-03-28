@@ -1,0 +1,18 @@
+
+
+.homePage{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.events{
+    border: 1px solid black;
+}
+
+.image{
+    width: 300px;
+    height: 200px;
+}
